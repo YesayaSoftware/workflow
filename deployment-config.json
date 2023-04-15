@@ -1,0 +1,9 @@
+[
+    {
+        "name": "workflow",
+        "port": "22",
+        "beforeHooks": "",
+        "afterHooks": "",
+        "path": "/home/yesayasoftware/workflow.yesayasoftware.co.tz"
+    }
+]
